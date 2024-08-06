@@ -11,7 +11,7 @@ class Solution(object):
             result.append(candy + extraCandies >= max_num)
         return result
 
-
+# Test case execution
 if __name__ == "__main__":
     sol = Solution()
 

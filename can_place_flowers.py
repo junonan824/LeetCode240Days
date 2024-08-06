@@ -17,7 +17,7 @@ class Solution(object):
                     n -= 1
         return n == 0
 
-# 테스트 케이스 실행
+# Test case execution
 if __name__ == "__main__":
     sol = Solution()
     # Test case: Can Place Flowers
